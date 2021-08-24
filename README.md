@@ -1,7 +1,5 @@
 ### Hi there, I'm Mahedi - [mahedimh][website] 👋
 
-[![Website](https://img.shields.io/website?label=mahedimh.com&style=for-the-badge&url=https%3A%2F%2Fmahedimh.com)](mahedimh)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mahediCSEcolor=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/mahediCSE)
 
 ## I'm a Computer Sceience Student, Programmer, Developer, and Learner!
 
