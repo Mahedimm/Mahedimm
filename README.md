@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=mahedimh.com&style=for-the-badge&url=https%3A%2F%2Fmahedimh.com)](mahedimh)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mahediCSEcolor=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/mahediCSE)
 
-## I'm a Computer Sceience Student, Programmer, Developer, and Learner!!
+## I'm a Computer Sceience Student, Programmer, Developer, and Learner!
 
 - 🌱 I’m want to learning everything 🤣
 - 🔭 I’m currently learning web Development
@@ -17,8 +17,10 @@
 [<img align="left" alt="https://www.youtube.com/channel/UCkib8U3Mq9sjE4BMXzc_XXg | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="https://twitter.com/mahediCSE | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="https://www.linkedin.com/in/mahedi-hasan-1a77b7110/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 ### Languages and Tools:
 
+<br>
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
@@ -93,4 +95,5 @@
 [youtube]: https://www.youtube.com/channel/UCkib8U3Mq9sjE4BMXzc_XXg
 [instagram]: https://www.instagram.com/mahedi.official/
 [linkedin]: https://www.linkedin.com/in/mahedi-hasan-1a77b7110/
+
 # Mahedimm
