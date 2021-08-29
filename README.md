@@ -3,9 +3,9 @@
 
 ## I'm a Computer Sceience Student, Programmer, Developer, and Learner!
 
-- 🌱 I want to learning everything 🤣
-- 🔭 I’m currently learning web Development
-- 👯 I’m looking to collaborate with other content creators
+- ⌛ I want to learning everyday
+- 📌 I’m currently learning web Development
+- 💻 I want to be be a full starck Development 
 - 🥅 2021 Goals: Complete MERN STACK WEB DEVELOPMENT
 - ⚡ Fun fact: I love to travel and play/watch football
 
