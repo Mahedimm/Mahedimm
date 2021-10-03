@@ -5,7 +5,7 @@
 
 - ⌛ I want to learning everyday
 - 📌 I’m currently learning web Development
-- 💻 I want to be be a full starck Development 
+- 💻 I want to be be a full starck Developer 
 - 🥅 2021 Goals: Complete MERN STACK WEB DEVELOPMENT
 - ⚡ Fun fact: I love to travel and play/watch football
 
