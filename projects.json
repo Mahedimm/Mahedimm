@@ -15,24 +15,9 @@
       }
     ]
   },
+ 
   {
     "id": "02",
-    "title": "Medical Service",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. PetShop is an elegant VirtueMart template especially designed for pet store, pet food shop website or you can customize it to adapt any kind of online store. . ",
-    "language": ["react", "nodejs", "mongodb", "Material UI"],
-    "link": [
-      {
-        "name": "Github",
-        "url": "https://github.com/Mahedimm/Pets-shop"
-      },
-      {
-        "name": "Live Demo",
-        "url": "https://bd-pets-shop.web.app/"
-      }
-    ]
-  },
-  {
-    "id": "03",
     "title": "Tavel Agency",
     "description": "Travel TIme , it’s time to rejoice! GoTravel is a remarkable tourism and travel react theme that enables you to effortlessly launch your travel business. In just a few steps you can set up a modern travel blog, create a stunning online presentation for your travel agency, and so much more. Everyone can easily plan their holiday, trip or a tour and book them directly on your website! You can stylishly display all tour destinations and categorize them even, which will make holiday booking organization a breeze. If you would like to start a personal business, tourism agency or you are already a travel influencer, GoTravel enables you to create great tour guides, travel destination lists and city guides for basically any location. GoTravel comes packed with great features and elements. ",
     "language": ["react", "nodejs", "mongodb", "tailwind"],
@@ -48,7 +33,7 @@
     ]
   },
   {
-    "id": "04",
+    "id": "03",
     "title": "Medical Service",
     "description": " Modern Medical And Healthcare Service REACT Template. It is built for websites of Healthcare, Medical, Hospital, And Clinic multi-purpose REACT Templates. Seeva based on in-depth research into Medical, Medical Care, Doctor, Healthcare, Health Care, Healthcare, Hospital, Medicine, Dental, Dentist, and Pharmacy industry to deliver all needed layouts and blocks.. ",
     "language": ["react", "nodejs", "mongodb", "Tailwind"],
