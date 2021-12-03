@@ -1,4 +1,4 @@
-### Hi there, I'm Mahedi - [mahedimh][website] 👋
+### Hi there, I'm Mahedi - [mahedimh][https://mahedimm.github.io/Mahedi-Hasan/] 👋
 
 
 ## I'm a Computer Sceience Student, Programmer, Developer, and Learner!
@@ -90,7 +90,7 @@
 
 </details>
 
-[website]: mahedimh.com
+[website]: https://mahedimm.github.io/Mahedi-Hasan/
 [twitter]: https://twitter.com/mahediCSE
 [youtube]: https://www.youtube.com/channel/UCkib8U3Mq9sjE4BMXzc_XXg
 [instagram]: https://www.instagram.com/mahedi.official/
