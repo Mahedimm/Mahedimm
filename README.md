@@ -1,12 +1,12 @@
 ### Hi there, I'm [Mahedi](https://mahedimm.github.io/Mahedi-Hasan/)👋
 
 
-## I'm a Computer Sceience Student, Programmer, Developer, and Learner!
+## I'm a Computer Sceience Student,React junior Developer, Web Developer!
 
 - ⌛ I want to learn everyday
-- 📌 I’m currently learning web Development
+- 📌 I’m currently learning Web Development
 - 💻 I want to be be a full starck Developer 
-- 🥅 2021 Goals:  MERN STACK  DEVELOPER
+- 🥅 2022 Goals:  TypeScript, Next Js, Node Js, 10 + Project
 - ⚡ Fun fact: I love to travel and play/watch football
 
 ### Connect with me:
