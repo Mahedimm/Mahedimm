@@ -6,7 +6,7 @@
 - ⌛ I want to learn everyday
 - 📌 I’m currently learning MERN STACK
 - 💻 I want to be be a full starck Developer 
-- 🥅 2022 Goals:  TypeScript, Next Js, Node Js, 10 + Project
+- 🥅 2022 Goals:  TypeScript, Next Js, Node Js, Express, 10 + Project
 - ⚡ Fun fact: I love to travel and play/watch football
 
 ### Connect with me:
