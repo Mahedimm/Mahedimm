@@ -1,5 +1,5 @@
 # 💫 About Me:
-⌛ I want to learn everyday<br>📌 I’m currently working on MERN STACK<br>🥅 2022 Goals: TypeScript, Next Js, Node Js, Express, 10 + Project<br>⚡ Fun fact: I love to travel and play/watch football<br>
+⌛ I want to learn everyday<br>📌 I’m currently working on MERN STACK<br>🥅 Recent Goals: Go lang <br>⚡ Fun fact: I love to travel and play/watch football<br>
 
 
 ## 🌐 Socials:
